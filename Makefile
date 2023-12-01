@@ -16,7 +16,7 @@ commit:
 
 # Push changes to the master branch
 push:
-	git push origin master
+	git push origin gh-pages
 
 # Run add, commit, and push in one command
 all: add commit push
